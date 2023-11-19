@@ -3,5 +3,74 @@ A. python is a programming language  and also sripting language..
 
 History of python : -  guido van rossum, who working as a sr.software developer , and working on major project to ---- continue your self
 
+What is Python and historyhat is Python and history 
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing
+and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. 
+Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse.
+designed by: Guido van Rossum
+Developer: Python Software Foundation
+First appeared: 20 February 1991; 32 years ago
+OS: Windows, macOS, Linux/UNIX, Android and a few other platforms
+Paradigm: Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective
+Stable release: 3.12.0 / 2 October 2023; 47 days ago
+Typing discipline: Duck, dynamic, strong typing; gradual (since 3.5, but ignored in CPython)
+
+
+
+What Python means?
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. 
+It was originally released in 1991. Designed to be easy as well as fun, the name "Python" is a nod to the British comedy group Monty Python.
+The Python interpreter is called “CPython” and it's written in the C programming language. Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+
+What is the benefit of Python?
+Python is a powerful, flexible, and easy-to-use language. In addition, the Python community is very active. It is used in many organizations as it supports multiple programming paradigms. It also performs automatic memory management.
+
+What is Python and why it is used?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, 
+for a variety of everyday tasks, like organising finances.
+Top 10 Uses of Python in Real World with Examples
+Web Development.
+Data Science.
+Artificial Intelligence and Machine Learning.
+Enterprise Applications.
+Education Sector.
+Web Scraping Applications.
+Game Development.
+Software Development.
+
+What is the application of Python?
+Python is a powerful, high-level programming language that can be used for web development, operating systems, AI, machine learning, numerical computing, mobile applications, and game development
+
+Where to code Python?
+Top Python IDEs
+IDLE. IDLE (Integrated Development and Learning Environment) is a default editor that accompanies Python. ...
+PyCharm. PyCharm is a widely used Python IDE created by JetBrains. ...
+Visual Studio Code. Visual Studio Code is an open-source (and free) IDE created by Microsoft. ...
+Sublime Text 3. ...
+Atom. ...
+Jupyter. ...
+Spyder. ...
+PyDev.
+
+What are features of Python?
+Features in Python
+Free and Open Source. ...
+Easy to code. ...
+Easy to Read. ...
+Object-Oriented Language. ...
+GUI Programming Support. ...
+High-Level Language. ...
+Large Community Support. ...
+Easy to Debug.
+
+What is compiler in Python?
+Python Compilers | Best Python Compilers for Effective ...
+In the context of Python, a compiler is a software tool that translates Python code written in high-level human-readable form into low-level machine code or bytecode that can be executed directly by a computer. The compiled code is typically more efficient and faster to execute than the original Python source code.
+compiled code is typically more efficient and faster to execute than the original Python source code.
+
+
+
+
+
 
 
