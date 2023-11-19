@@ -15,7 +15,7 @@ Paradigm: Multi-paradigm: object-oriented, procedural (imperative), functional, 
 Stable release: 3.12.0 / 2 October 2023; 47 days ago
 Typing discipline: Duck, dynamic, strong typing; gradual (since 3.5, but ignored in CPython)
 
-
+=============================================================================================================================================================================
 
 What Python means?
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. 
@@ -68,6 +68,26 @@ Python Compilers | Best Python Compilers for Effective ...
 In the context of Python, a compiler is a software tool that translates Python code written in high-level human-readable form into low-level machine code or bytecode that can be executed directly by a computer. The compiled code is typically more efficient and faster to execute than the original Python source code.
 compiled code is typically more efficient and faster to execute than the original Python source code.
 
+What are the 7 operators in Python?
+Python divides the operators in the following groups:
+Arithmetic operators.
+Assignment operators.
+Comparison operators.
+Logical operators.
+Identity operators.
+Membership operators.
+Bitwise operators.
+
+Arithmetic Operators
+Definition
+The arithmetic operators perform addition, subtraction, multiplication, division, exponentiation, and modulus operations.
+
+Addition	+	Adds one operand to the other
+Subtraction	-	Subtracts the second operand from the first
+Multiplication	*	Multiplies one operand by the other
+Division	/	Divides the first operand by the second
+Modulo	%	Divides the first INTEGER operand by the second, and returns the remainder
+Exponentiation	**	Lets you refer to a number in terms of a base value and an exponent
 
 
 
